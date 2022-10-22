@@ -1,2 +1,2 @@
-# digitalclock-html-css-javascript
-A digital clock made in HTML, CSS, Javascript
+# relogiodigital-html-css-javascript
+Um relógio digital feito em HTML, CSS e Javascript.
