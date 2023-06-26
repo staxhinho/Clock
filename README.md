@@ -5,4 +5,5 @@
 A clock made in HTML, CSS and javascript
 ## Colour guide
 If the colour of the language is green then it means it's an 100% correct translation.
+
 If the colour of the language is yellow then it means it's an Google Translator translation.
