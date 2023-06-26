@@ -5,4 +5,5 @@
 Um relógio feito em HTML, CSS and Javascript
 ## Guia de cores
 Se a cor do idioma for verde significa que é uma tradução 100% correta.
+
 Se a cor do idioma for amarela significa que é uma tradução do Google Tradutor
