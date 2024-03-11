@@ -4,10 +4,10 @@
 [![es-es](https://img.shields.io/badge/lang-es--es-darkgreen.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.es-es.md)
 [![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.fr-fr.md)
 
-# HTML時計
-HTML、CSS、JavaScriptで作った時計です。
+# Un reloj HTML
+Un reloj hecho en HTML, CSS y javascript
 
-## 色案内
-言語の色が緑色の場合は、翻訳が 100% 正しいことを意味します。
+## Guía de colores
+Si el color del idioma es verde entonces significa que es una traducción 100% correcta.
 
-言語の色が黄色の場合は、Google 翻訳によって翻訳されたことを意味します。
+Si el color del idioma es amarillo, significa que es una traducción de Google Translator.
