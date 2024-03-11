@@ -4,7 +4,6 @@
 [![es-es](https://img.shields.io/badge/lang-es--es-darkgreen.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.es-es.md)
 [![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.fr-fr.md)
 
-
 # Un reloj HTML
 Un reloj hecho en HTML, CSS y javascript
 
