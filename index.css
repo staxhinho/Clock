@@ -19,9 +19,35 @@ img {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    
 }
 
 language, a{
     margin-left: 15px;
     font-size: xx-large;
+}
+
+.Title {
+    font-family: 'Open Sans', sans-serif;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 30px;
+}
+
+.Madeby{
+    font-family: 'Open Sans', sans-serif;
+    color: #eeeeee;
+    font-weight: 700;
+    font-size: 20px;
+    position: absolute; bottom: 0px; right: 0px; text-align: right;
+}
+
+.Madeby, p {
+    margin: 0px;
+}
+
+.Madeby, a {
+    margin: 15px;
 }
