@@ -2,12 +2,7 @@
 [![pt-pt](https://img.shields.io/badge/lang-pt--pt-darkgreen.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.pt-pt.md)
 [![jp](https://img.shields.io/badge/lang-jp-darkgreen.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.jp-jp.md)
 [![es-es](https://img.shields.io/badge/lang-es--es-darkgreen.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.es-es.md)
-[![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.fr-fr.md)
+[![fr](https://img.shields.io/badge/lang-fr-darkgreen.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.fr-fr.md)
 
 # Um relógio HTML 
-Um relógio feito em HTML, CSS and Javascript
-
-## Guia de cores
-Se a cor do idioma for verde significa que é uma tradução 100% correta.
-
-Se a cor do idioma for amarela significa que é uma tradução do Google Tradutor
+Um relógio feito em HTML, CSS and Javascript.

@@ -5,4 +5,4 @@
 [![fr](https://img.shields.io/badge/lang-fr-darkgreen.svg)](https://github.com/staxhinho/Clock/blob/main/README/README.fr-fr.md)
 
 # An HTML clock
-A clock made in HTML, CSS and javascript
+A clock made in HTML, CSS and javascript.
